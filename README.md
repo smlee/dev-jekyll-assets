@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Static assets (libraries/plugins/web-fonts) required by the [_dev_][dev] based website to run. It provides the opportunity to choose self-host assets in production or development mode.
+Static assets (libraries/plugins/web-fonts) required by the [_dev_][dev] Jekyll theme based website to run. It provides the opportunity to choose self-host assets in production or development mode.
 
 ## Usage
 
